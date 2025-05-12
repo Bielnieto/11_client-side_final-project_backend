@@ -1,14 +1,40 @@
 {
-  "tasks": [
-    {
-      "id": 1,
-      "title": "Study json-server",
-      "completed": false
-    },
-    {
-      "id": 2,
-      "title": "Complete the client-side project",
-      "completed": true
-    }
-  ]
+  "books": [
+  {
+    "id": 1,
+    "title": "Cien años de soledad",
+    "author": "Gabriel García Márquez",
+    "year": 1967,
+    "status": "read"
+  },
+  {
+    "id": 2,
+    "title": "1984",
+    "author": "George Orwell",
+    "year": 1949,
+    "status": "in progress"
+  },
+  {
+    "id": 3,
+    "title": "Sapiens: De animales a dioses",
+    "author": "Yuval Noah Harari",
+    "year": 2011,
+    "status": "pending"
+  },
+  {
+    "id": 4,
+    "title": "El nombre del viento",
+    "author": "Patrick Rothfuss",
+    "year": 2007,
+    "status": "read"
+  },
+  {
+    "id": 5,
+    "title": "La sombra del viento",
+    "author": "Carlos Ruiz Zafón",
+    "year": 2001,
+    "status": "in progress"
+  }
+]
+
 }
